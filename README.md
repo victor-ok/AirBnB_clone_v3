@@ -1,2 +1,2 @@
-# AirBnB_clone_v3
-task 3 for the AirBnB clone
+# AirBnB_clone
+A clone of AirBNB website
